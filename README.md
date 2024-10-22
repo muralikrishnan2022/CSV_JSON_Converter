@@ -1,6 +1,3 @@
-Here's a sample README for the CSV_JSON_Converter GitHub repository:
-
-```markdown
 # CSV_JSON_Converter
 
 A simple and efficient tool for converting CSV files to JSON format and vice versa. This project provides a user-friendly web interface to facilitate file uploads and conversions.
